@@ -5,7 +5,7 @@ The use is straightforward and sure, because patient’s data do not travel thro
 1. The physician is asked to answer the questions required to calculate SAMe-TT2R2 parameter.
 2. A series of recognized interactions with anticoagulant medication will be evaluated and that is why the physician provides the information about the patient’s intake of specific active principles.
 3. The genetic determination of the patient must be fulfilled in order to take advantage of the algorithm described here.
-4. Before finish, first Accept changes and then click Close to proceed.
+4. Before finishing, first Accept changes and then click Close to proceed.
 
 After data is introduced, the software provides an answer according to the decision methodology and also a written report in pdf format with the calculations and description of possible interactions with anticoagulant therapy. This report is automatically created at the directory where application is installed.
 
