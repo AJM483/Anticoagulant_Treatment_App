@@ -1,6 +1,6 @@
 # Anticoagulant_Treatment_App
 This is a Python application intended for physicians that prescribe anticoagulant medication to their patients in their daily work. More precisely, it was built upon a research project carried out in Primary Care Health System in Spain (see reference 1).
-It can be installed at any computer running Windows OS (from Windows 10).  Currently, the language of use is only Spanish because the recommendation of treatment is based on the current protocols applied in Spanish Health Care System.
+It can be installed at any computer running Windows OS (from Windows 10). For this, download the **AppDistribution.zip** and decompress in a desired location in your computer. Take into account, that folder will contain your local directory to store application files.  Currently, the language of use is only Spanish because the recommendation of treatment is based on the current protocols applied in Spanish Health Care System.
 The use is straightforward and sure, because patient’s data do not travel through the Internet, following these steps:
 1. The physician is asked to answer the questions required to calculate SAMe-TT2R2 parameter.
 2. A series of recognized interactions with anticoagulant medication will be evaluated and that is why the physician provides the information about the patient’s intake of specific active principles.
